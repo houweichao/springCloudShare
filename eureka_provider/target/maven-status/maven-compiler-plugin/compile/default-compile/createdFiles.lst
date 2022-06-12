@@ -1,0 +1,5 @@
+com\itheima\provider\controller\GoodController.class
+com\itheima\provider\service\GoodService.class
+com\itheima\provider\SpringbootProviderApplication.class
+com\itheima\provider\domain\Good.class
+com\itheima\provider\dao\GoodMapper.class
